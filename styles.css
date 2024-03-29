@@ -1,0 +1,36 @@
+body {
+    background-image: url('file:///home/yanis/T%C3%A9l%C3%A9chargements/899dda241eca5e959d9d945f45aba682.gif');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    color: white;
+  }
+  
+  .cv {
+    display: flex;
+    justify-content: space-between; 
+  }
+    
+  .right-column {
+    flex: 1; 
+    margin-right: 20px;
+  }
+  
+  .profil-image {
+    position: absolute;
+    top: 10px;
+    right: 10px; 
+    width: 50px;
+    height: 50px; 
+    border-radius: 50%;
+  }
+  
+  .school-image {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+  }
+  
+  
+  
+  
