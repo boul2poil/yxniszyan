@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mon CV Flexbox</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <img src="file:///home/yanis/Images/Captures%20d%E2%80%99%C3%A9cran/Capture%20d%E2%80%99%C3%A9cran%20du%202024-03-29%2013-32-44.png" alt="Photo de profil" class="profil-image">
+  <div class="cv">
+    <div class="right-column">
+      <h1>Yanis Zyan</h1>
+      <p>Je cherche un stage de 5 semaines</p>
+      <p>Adresse : 40 rue de saint germain Bat F</p>
+      <p>Gmail : yaniszyan30@gmail.com</p>
+      <p>Num tel : +330658781285</p>
+      <p>Langues : Français (natif), Anglais (Un peu)</p>
+      <p>Lieu de Naissance : Chateauroux</p>
+    </div>
+    <div class="right-column">
+      <h2>Expérience professionnelle</h2>
+      <ul>
+        <li>Spl Gennevilliers - Stagiaire pendant 2 semaines</li>
+        <li>Free - Stagiaire pendant 6 semaines</li>
+      </ul>
+      <h2>Formation</h2>
+      <ul>
+        <li>Brevet - Collège jean lurçat à Acheres</li>
+        <li>Étudiant en 2nd professionnelle au lycée Saint-Erembert a Saint-Germain</li>
+      </ul>
+      <h2>Compétences</h2>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+      </ul>
+      <h2>Centres d'intérêt</h2>
+      <ul>
+        <li>Sport</li>
+        <li>Gaming</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
